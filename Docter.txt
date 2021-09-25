@@ -1,0 +1,13 @@
+<html>
+<head>
+	<title>Treatment</title>
+</head>
+<body>
+	<h1>Feedback Form</h1>
+	<form>
+		Medicines:<input type="textarea" name="Medicines" value=""><br><br>
+		Overview:<input type="text" name="Overview" value=""><br><br>
+		<a href="Feedback.html">submit</a>
+	</form>
+</body>
+</html>

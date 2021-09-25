@@ -1,0 +1,18 @@
+<html>
+<head>
+	<title>feedback</title>
+</head>
+	<body>
+		<h1>Feedback form</h1>
+		<form align="center">
+			<label>How was your experience</label><br><br>
+			<input type="radio" name="How was your experience" value="Good"/>Good<br><br>
+			<input type="radio" name="How was your experience" value="Satisfied"/>Satisfied<br><br>
+			<input type="radio" name="How was your experience" value="Avarage"/>Avarage<br><br>
+			<input type="radio" name="How was your experience" value="Not satisfied"/>NOt satisfied<br><br>
+			Any Suggesstions:<input type="text" name="Any suggessions" value="">
+			<input type="Submit" name="submit" value="Submit">
+		</form>
+	</body>
+	</html>
+
